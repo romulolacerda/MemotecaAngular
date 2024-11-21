@@ -1,6 +1,6 @@
 # Memoteca
 
-![Tela da aplicação](imagens/screenshot.png)
+![Tela da aplicação](src/assets/imagens/memotecaFinal.png)
 
 Memoteca é uma aplicação desenvolvida em Angular, projetada para exercitar habilidades de desenvolvimento web. O objetivo do projeto é permitir que os usuários coletem e compartilhem pensamentos inspiradores.
 
