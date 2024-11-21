@@ -1,27 +1,51 @@
 # Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+![Tela da aplicação](imagens/screenshot.png)
 
-## Development server
+Memoteca é uma aplicação desenvolvida em Angular, projetada para exercitar habilidades de desenvolvimento web. O objetivo do projeto é permitir que os usuários coletem e compartilhem pensamentos inspiradores.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas
 
-## Code scaffolding
+- **Angular 14**: Framework para construção de aplicações web.
+- **TypeScript**: Linguagem de programação que é um superconjunto do JavaScript.
+- **RxJS**: Biblioteca para programação reativa usando Observables.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
 
-## Build
+Para rodar a aplicação localmente, siga os passos abaixo:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/memoteca.git
+   ```
 
-## Running unit tests
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd memoteca
+   ```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
 
-## Running end-to-end tests
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm start
+   ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+5. Acesse a aplicação no seu navegador em `http://localhost:4200`.
 
-## Further help
+## Funcionalidades
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Adicionar pensamentos e citações.
+- Selecionar diferentes modelos de apresentação para os cards.
+- Visualizar e compartilhar pensamentos inspiradores.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
